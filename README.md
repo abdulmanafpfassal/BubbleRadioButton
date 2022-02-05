@@ -1,3 +1,4 @@
+
 ## Installing
 
 Add the following to your `pubspec.yaml` file:
@@ -7,6 +8,7 @@ Add the following to your `pubspec.yaml` file:
 
 
 ## Using Custom Radio Button
+
 
 ```dart
 BubbleRadioButton<int>(
@@ -29,6 +31,6 @@ BubbleRadioButton<int>(
 
 ## Screenshots
 
-<img src="https://github.com/abdulmanafpfassal/CustomRadioButton/tree/master/screenshots/radiobutton.jpg" alt="">
+<img src="https://github.com/abdulmanafpfassal/BubbleRadioButton/blob/master/screenshots/radiobutton.jpg" alt="">
 
 
