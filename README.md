@@ -3,7 +3,7 @@
 Add the following to your `pubspec.yaml` file:
 
     dependencies:
-      bubble_radio_button: 0.0.1
+      bubble_radio_button: 0.0.2
 
 
 ## Using Custom Radio Button
