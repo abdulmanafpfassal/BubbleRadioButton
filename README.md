@@ -1,7 +1,4 @@
-<!-- 
-
-
-## Getting started
+## Installing
 
 Add the following to your `pubspec.yaml` file:
 
