@@ -31,6 +31,6 @@ BubbleRadioButton<int>(
 
 ## Screenshots
 
-<img src="https://github.com/abdulmanafpfassal/BubbleRadioButton/blob/master/screenshots/radiobutton.jpg" alt="">
+<img src="https://github.com/abdulmanafpfassal/content/blob/master/radiobutton.jpg" alt="Image Loading...">
 
 
