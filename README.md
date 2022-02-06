@@ -4,7 +4,7 @@
 Add the following to your `pubspec.yaml` file:
 
     dependencies:
-      bubble_radio_button: 0.0.2
+      bubble_radio_button: 0.0.3
 
 
 ## Using Custom Radio Button
@@ -31,6 +31,6 @@ BubbleRadioButton<int>(
 
 ## Screenshots
 
-<img src="https://github.com/abdulmanafpfassal/BubbleRadioButton/blob/master/screenshots/radiobutton.jpg" alt="">
+<img src="https://raw.githubusercontent.com/abdulmanafpfassal/content/master/radiobutton.jpg" alt="Loading...">
 
 
