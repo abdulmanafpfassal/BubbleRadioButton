@@ -42,7 +42,7 @@ class BubbleRadioButton<T> extends StatelessWidget {
         child: Row(
           children: [
             _customRadioButton,
-            // SizedBox(width: 12),
+            SizedBox(width: 12),
             if (title != null) title,
           ],
         ),
